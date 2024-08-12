@@ -1,0 +1,9 @@
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 root@10.111.111.107
+-- INPUT THE PASSWORD --
+sudo service mysqld start
+su - oracle
+prisond
+sdba
+CONNECT / AS SYSDBA
+SHUTDOWN
+STARTUP
