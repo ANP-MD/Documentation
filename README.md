@@ -6,7 +6,7 @@ The list of all hosted services mentioned below.
 Open-Source: https://github.com/ANP-MD/HealthBot ✔
 
 # 2. IncidentsEmailSender
-Open-Source: ❌
+Open-Source: https://github.com/ANP-MD/IncidentEmailSender ✔
 
 # 3. RpracWEB
 Open-Source: ❌
