@@ -3,7 +3,7 @@
 The list of all hosted services mentioned below.
 
 # 1. HealthBot
-Open-Source: https://github.com/ANP-MD/HealthBot ✔
+Open-Source: https://github.com/ANP-MD/HealthBot ✔/n
 Host: Local
 
 # 2. IncidentsEmailSender
