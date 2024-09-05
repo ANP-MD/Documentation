@@ -1,9 +1,9 @@
 # Documentation
 
-The list of all hosted services as mentioned below.
+The list of all hosted services mentioned below.
 
 # 1. HealthBot
-Open-Source: ❌
+Open-Source: https://github.com/ANP-MD/HealthBot ✔
 
 # 2. IncidentsEmailSender
 Open-Source: ❌
@@ -34,3 +34,7 @@ Open-Source: ❌
 
 # 11. TelefonDepistat
 Open-Source: https://github.com/ANP-MD/PHONE-CLIENT ✔
+
+# 12. GravityZone (Bitdefender)
+Open-Source: ❌
+
