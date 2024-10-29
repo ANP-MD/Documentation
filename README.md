@@ -61,3 +61,7 @@ Cloud: ✔
 # 15. SiteANP
 Open-Source: ❌<br/>
 Cloud: ✔
+
+# 16. 1C
+Open-Source: ❌<br/>
+Cloud: ❌
